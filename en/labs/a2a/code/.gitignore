@@ -1,0 +1,40 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+
+# Local environment files; keep the checked-in example.
+.env
+.env.*
+!.env.sample
+
+# Credentials, tokens, certificates, and private keys.
+agent-token.txt
+*.token
+*.pem
+*.key
+*.p12
+*.pfx
+*.keystore
+
+# Local/generated Agent 365 configuration.
+a365.config.local.json
+a365.local.config.json
+a365.generated.config*.json
+
+# Local cloud/deployment state and logs.
+.azure/
+.terraform/
+*.tfstate
+*.tfstate.*
+*.log
+
+# Python/build/test output.
+.coverage
+coverage.xml
+htmlcov/
+build/
+dist/

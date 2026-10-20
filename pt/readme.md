@@ -59,7 +59,7 @@ Exemplos de perguntas analíticas e de planejamento:
 
 ## <a id="arquitectura"></a>Arquitetura e agentes
 
-![alt text](../assets/image-1.png)
+![alt text](../assets/image-2.png)
 
 ### <a id="capa-datos"></a>Microsoft Fabric – Camada de dados
 
