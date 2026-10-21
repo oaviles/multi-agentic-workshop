@@ -1,0 +1,12 @@
+{
+  "tenantId": "<your-tenant-id>",
+  "clientAppId": "<your-registration-client-app-id>",
+  "environment": "prod",
+  "graphBaseUrl": "https://graph.microsoft.com",
+  "authorityHost": "https://login.microsoftonline.com",
+  "agentIdentityDisplayName": "Anne Agent",
+  "agentBlueprintDisplayName": "Anne Agent Blueprint",
+  "agentDescription": "Anne Agent",
+  "aiTeammate": false,
+  "useBlueprint": true
+}

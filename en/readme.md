@@ -59,7 +59,7 @@ Examples of analytical and planning questions:
 
 ## <a id="architecture"></a>Architecture and agents
 
-![alt text](../assets/image-1.png)
+![alt text](../assets/image-2.png)
 
 ### <a id="data-layer"></a>Microsoft Fabric – Data layer
 
@@ -90,6 +90,11 @@ You can find the full documentation here: [Database Documentation](../assets/dat
   Central orchestrator. Detects user intent and delegates to the appropriate agent: connects external Fabric agents (Mark) and Foundry agents (Anders) with internal Copilot Studio agents (Charles, Ric). It is published in Microsoft 365 and Teams.
 - **Ric (Child Agent)**
   Child agent of Bill responsible for sending emails to the user with the requested information (for example, query results or links to reports).
+
+### <a id="interoperability-layer"></a>Agent Interoperability Layer
+
+- **Anne (Collaboration Agent)**
+  An A2A-enabled agent implemented with Microsoft Agent Framework and hosted in Azure Container Apps. Anne represents the Agent Interoperability Layer, exposing a specialized business capability that can be invoked by other agents through agent-to-agent communication. Anne operates as an autonomous, independently hosted agent that participates in the broader multi-agent architecture.
 
 ------
 
@@ -126,6 +131,10 @@ The workshop is divided into independent but connected labs, organized by archit
 - [Lab 7 – Ric Agent: child agent for email sending + initial Bill configuration](./labs/copilot/lab07-ric-child-agent.en.md)
 - [Lab 8 – Bill Orchestrator: connecting external (Mark, Anders) and internal (Charles) agents and defining orchestration rules](./labs/copilot/lab08-bill-orchestrator.en.md)
 - [Lab 9 – Publishing Bill in Microsoft 365 / Teams and end‑to‑end tests](./labs/copilot/lab09-bill-publishing.en.md)
+
+### 4. A2A lab (optinal)
+
+- [Lab 10 – A2A-enabled Agent Framework agent hosted on Azure Container App](./labs/a2a/lab10-anne-a2a-agent.en.md)
 
 ---
 
