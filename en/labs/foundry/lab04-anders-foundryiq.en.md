@@ -129,7 +129,7 @@ In this step, you will locate your target agent within the Microsoft Foundry por
 
 1. After saving, click **Use in an agent** in the upper right header, or navigate back to **Build** > **Agents** > **Anders**.
 
-2. In the `AndersAgent` **Playground** section:
+2. In the `Anders` **Playground** section:
 
    * Scroll down to the **Knowledge** section on the left sidebar.
 
@@ -185,7 +185,7 @@ In this lab, you successfully:
 
 * Created a Knowledge Base indexing unstructured documents stored in Azure Blob Storage.
 
-* Linked the Knowledge Base to an AI Agent (`AndersAgent`).
+* Linked the Knowledge Base to an AI Agent (`Anders`).
 
 * Verified grounded RAG (Retrieval-Augmented Generation) responses and specific page-level document summarization.
 
