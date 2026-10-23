@@ -189,3 +189,8 @@ In this lab, you successfully:
 
 * Verified grounded RAG (Retrieval-Augmented Generation) responses and specific page-level document summarization.
 
+
+## Next step
+
+Continue with [Lab 4 — Anders — Enterprise Knowledge powered by Foundry IQ](lab04-anders-foundryiq.en.md).
+
