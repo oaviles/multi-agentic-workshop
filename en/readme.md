@@ -173,7 +173,7 @@ Each participant must have the following tools installed on their machine **befo
 
 | Tool | Description | Download |
 |------|-------------|----------|
-| **.NET 8 SDK** | Compile and run Azure Functions and Foundry agents | [Download](https://dotnet.microsoft.com/download/dotnet/8.0) |
+| **.NET 10 SDK** | Compile and run Azure Functions and Foundry agents | [Download](https://dotnet.microsoft.com/download/dotnet/8.0) |
 | **Azure CLI** | Authenticate to Azure, deploy resources, and assign RBAC roles | [Install](https://learn.microsoft.com/cli/azure/install-azure-cli) |
 | **Azure Functions Core Tools v4** | Publish Azure Functions to Azure | [Install](https://learn.microsoft.com/azure/azure-functions/functions-run-local#install-the-azure-functions-core-tools) |
 | **PowerShell 7+** | Run infrastructure deployment scripts. **Required on all OSes** (including Windows). Do not use PowerShell 5.1. | [Install](https://learn.microsoft.com/powershell/scripting/install/installing-powershell) · Windows: `winget install Microsoft.PowerShell` |

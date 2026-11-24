@@ -37,7 +37,7 @@ Before starting the labs, each participant must deploy the Azure infrastructure 
 
 - **Azure CLI** installed and up to date ([install](https://aka.ms/installazurecli))
 
-- **.NET 8 SDK** installed ([download](https://dotnet.microsoft.com/download/dotnet/8.0))
+- **.NET 10 SDK** installed ([download](https://dotnet.microsoft.com/download/dotnet/8.0))
 
 - **PowerShell 7+** (required on all operating systems, including Windows)
   - Windows: `winget install Microsoft.PowerShell` or [download MSI](https://aka.ms/powershell-release?tag=stable)

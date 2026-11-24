@@ -39,7 +39,7 @@ Antes de iniciar los laboratorios, cada participante debe desplegar la infraestr
 
 - **Azure CLI** instalado y actualizado ([instalar](https://aka.ms/installazurecli))
 
-- **.NET 8 SDK** instalado ([descargar](https://dotnet.microsoft.com/download/dotnet/8.0))
+- **.NET 10 SDK** instalado ([descargar](https://dotnet.microsoft.com/download/dotnet/8.0))
 
 - **PowerShell 7+** (requerido en todos los sistemas operativos, incluido Windows)
   - Windows: `winget install Microsoft.PowerShell` o [descargar MSI](https://aka.ms/powershell-release?tag=stable)

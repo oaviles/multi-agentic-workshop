@@ -43,7 +43,7 @@ GitHub Codespaces proporciona un entorno de desarrollo completo en la nube, pre-
 
 | Herramienta | Viene preinstalada |
 |---|---|
-| .NET 8 SDK | ✅ |
+| .NET 10 SDK | ✅ |
 | Azure CLI (última versión) | ✅ |
 | PowerShell 7+ | ✅ |
 | C# Dev Kit (extensión VS Code) | ✅ |

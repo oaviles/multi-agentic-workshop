@@ -58,7 +58,7 @@ The project offers **two deployment options** located in sibling folders under `
 ### Prerequisites
 
 - **Azure CLI** installed and up to date ([install](https://aka.ms/installazurecli))
-- **.NET 8 SDK** installed ([download](https://dotnet.microsoft.com/download/dotnet/8.0))
+- **.NET 10 SDK** installed ([download](https://dotnet.microsoft.com/download/dotnet/8.0))
 - **PowerShell** 7+ (all platforms). Do not use PowerShell 5.1.
 - An active **Azure subscription** where you hold **Owner**, or **Contributor** together with **User Access Administrator**. The deployment creates role assignments for the Function App managed identity, and Contributor on its own cannot create them.
 - The assigned **temporary tenant name**
