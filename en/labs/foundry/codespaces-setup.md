@@ -83,7 +83,7 @@ Open the integrated terminal with <kbd>Ctrl</kbd>+<kbd>`</kbd> (or **Terminal â†
 ```bash
 dotnet --version
 ```
-You should see something like `8.0.xxx`.
+You should see something like `10.0.xxx`.
 
 ```bash
 az version
