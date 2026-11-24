@@ -353,7 +353,7 @@ The ontology editor includes a built-in **ontology agent** for the ontology you 
 Create this agent first to isolate ontology problems from source routing.
 
 1. Select **+ New item > Data agent** and name it `Mark Ontology Test`.
-2. Select **Add a data source**, search for `retail_ontology`, and select **Add**.
+2. Select **Add Ontology**, search for `retail_ontology`, and select **Add**.
 3. Confirm that the four entity types appear in the explorer.
 4. In **Agent instructions**, add:
 
