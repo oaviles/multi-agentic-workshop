@@ -60,7 +60,7 @@ Para que Anders possa interagir com a API da Contoso Retail, definiremos uma **O
 
 | Ferramenta | Descrição | Download |
 |------------|-----------|----------|
-| **.NET 8 SDK** | Compilar e executar a Function App e o agente Anders | [Baixar](https://dotnet.microsoft.com/download/dotnet/8.0) |
+| **.NET 10 SDK** | Compilar e executar a Function App e o agente Anders | [Baixar](https://dotnet.microsoft.com/download/dotnet/8.0) |
 | **Azure CLI** | Autenticar no Azure, implantar recursos e atribuir roles RBAC | [Instalar](https://learn.microsoft.com/cli/azure/install-azure-cli) |
 | **Azure Functions Core Tools** | Publicar a Function App no Azure (opção recomendada) | [Instalar](https://learn.microsoft.com/azure/azure-functions/functions-run-local#install-the-azure-functions-core-tools) |
 | **PowerShell 7+** | Executar scripts de implantação. **Requerido em todos os SOs** (incluindo Windows). Não use PowerShell 5.1. | [Instalar](https://learn.microsoft.com/powershell/scripting/install/installing-powershell) · Windows: `winget install Microsoft.PowerShell` |

@@ -156,7 +156,7 @@ Cada participante deve ter as seguintes ferramentas instaladas em sua máquina *
 
 | Ferramenta | Descrição | Download |
 |-----------|-----------|----------|
-| **.NET 8 SDK** | Compilar e executar as Azure Functions e os agentes do Foundry | [Download](https://dotnet.microsoft.com/download/dotnet/8.0) |
+| **.NET 10 SDK** | Compilar e executar as Azure Functions e os agentes do Foundry | [Download](https://dotnet.microsoft.com/download/dotnet/8.0) |
 | **Azure CLI** | Autenticar no Azure, implantar recursos e atribuir funções RBAC | [Instalar](https://learn.microsoft.com/cli/azure/install-azure-cli) |
 | **Azure Functions Core Tools v4** | Publicar Azure Functions no Azure | [Instalar](https://learn.microsoft.com/azure/azure-functions/functions-run-local#install-the-azure-functions-core-tools) |
 | **PowerShell 7+** | Executar scripts de implantação de infraestrutura. **Obrigatório em todos os sistemas operacionais** (incluindo Windows). Não use o PowerShell 5.1. | [Instalar](https://learn.microsoft.com/powershell/scripting/install/installing-powershell) · Windows: `winget install Microsoft.PowerShell` |

@@ -57,7 +57,7 @@ For Anders to interact with the Contoso Retail API, we will define an **OpenAPI 
 
 | Tool | Description | Download |
 |------|-------------|----------|
-| **.NET 8 SDK** | Build and run the Function App and the Anders agent | [Download](https://dotnet.microsoft.com/download/dotnet/8.0) |
+| **.NET 10 SDK** | Build and run the Function App and the Anders agent | [Download](https://dotnet.microsoft.com/download/dotnet/8.0) |
 | **Azure CLI** | Authenticate to Azure, deploy resources, and assign RBAC roles | [Install](https://learn.microsoft.com/cli/azure/install-azure-cli) |
 | **Azure Functions Core Tools** | Publish the Function App to Azure (recommended option) | [Install](https://learn.microsoft.com/azure/azure-functions/functions-run-local#install-the-azure-functions-core-tools) |
 | **PowerShell** | Run deployment scripts | Windows: included · macOS/Linux: [Install PowerShell 7+](https://learn.microsoft.com/powershell/scripting/install/installing-powershell) |
