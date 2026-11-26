@@ -73,11 +73,11 @@ In this step, you will locate your target agent within the Microsoft Foundry por
 | **Subscription** | Select your active Azure Subscription | 
 | **Resource group** | Select your target resource group | 
 | **Region** | Select an supported Azure region (e.g., `Central US`) | 
-| **Pricing tier** | Select **Serverless** or desired capacity tier | 
+| **Pricing tier** | Select **Serverless or Basic** or desired capacity tier | 
 
 3. Select the check box acknowledging additional usage costs.
 
-4. Click **Create**.
+4. Click **Create**. Make sure to select "Pricing Tier" Basic or Serverless.
 
 ![imagen](img/image5_Anders_FoundryIQ.png)
 
@@ -85,7 +85,7 @@ In this step, you will locate your target agent within the Microsoft Foundry por
 
 ## Step 3: Create a Knowledge Base
 
-1. Create an Azure Storage account called "bikesstorageXXXX" (change XXXX for your 3 or 4 initials), add a blob containers calles "bikes" and upload this PDF file to the blob container. [EPIC_9_USER_MANUAL_ENGLISH.PDF](pdf/EPIC_9_USER_MANUAL_ENGLISH.pdf)
+1. Create an Azure Storage account called "bikesstorageXXXX" (change XXXX for your 3 or 4 initials), add a blob containers called "bikes" and upload this PDF file to the blob container. [EPIC_9_USER_MANUAL_ENGLISH.PDF](pdf/EPIC_9_USER_MANUAL_ENGLISH.pdf)
 
 2. Once connected, click the **Create a knowledge base** button on the Foundry IQ Knowledge Base overview screen.
 
@@ -115,7 +115,7 @@ In this step, you will locate your target agent within the Microsoft Foundry por
 
    * **Embedding model**: `text-embedding-3-small`.
 
-   * **Chat completions model**: Select `gpt-4.1`.
+   * **Chat completions model**: Select `gpt-5.2`.
 
 2. Click **Create**.
 
