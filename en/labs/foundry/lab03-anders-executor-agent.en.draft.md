@@ -1,4 +1,4 @@
-# Lab 03: Anders – Executor Agent
+# Lab 07: Anders – Executor Agent
 
 Azure AI Foundry – configure, run, and test **Anders**, the executor agent of Contoso Retail’s multi-agent architecture.
 
